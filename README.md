@@ -35,8 +35,8 @@ response = requests.post(
     }
 )
 print(response.json())
-
 ```
+
 ## How to Receive Data
 
 ### Example Response:
